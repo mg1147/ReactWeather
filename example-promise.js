@@ -20,3 +20,4 @@ addPromise(1,'bla').then(function (temp) {
 }, function (err) {
   console.log('Fehler',err);
 });
+f
